@@ -1,5 +1,5 @@
 /* 1. There are three types of variable in Javascript 
-   var,let,const (var -> variable name, numberOne variable name decliare, than = equal this is assignment operator, than finally variable value 4444)
+   var,let,const Five thinks to decliare a variable (var -> variable name, numberOne variable name decliare, than = equal this is assignment operator, than finally variable value 4444 and last ;)
 */
 var numberOne = 4444; // 4444 which is type of number value
 var numberTwo = 5.555; // 5.555 this one also type of number value
